@@ -1,0 +1,15 @@
+C:\Users\larmi\Desktop\backend_prosjekter\c_oppgaver_030924\obj\Debug\net8.0\c_oppgaver_030924.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\larmi\Desktop\backend_prosjekter\c_oppgaver_030924\obj\Debug\net8.0\c_oppgaver_030924.AssemblyInfoInputs.cache
+C:\Users\larmi\Desktop\backend_prosjekter\c_oppgaver_030924\obj\Debug\net8.0\c_oppgaver_030924.AssemblyInfo.cs
+C:\Users\larmi\Desktop\backend_prosjekter\c_oppgaver_030924\obj\Debug\net8.0\c_oppgaver_030924.csproj.CoreCompileInputs.cache
+C:\Users\larmi\Desktop\backend_prosjekter\c_oppgaver_030924\obj\Debug\net8.0\c_oppgaver_030924.sourcelink.json
+C:\Users\larmi\Desktop\backend_prosjekter\c_oppgaver_030924\bin\Debug\net8.0\c_oppgaver_030924.exe
+C:\Users\larmi\Desktop\backend_prosjekter\c_oppgaver_030924\bin\Debug\net8.0\c_oppgaver_030924.deps.json
+C:\Users\larmi\Desktop\backend_prosjekter\c_oppgaver_030924\bin\Debug\net8.0\c_oppgaver_030924.runtimeconfig.json
+C:\Users\larmi\Desktop\backend_prosjekter\c_oppgaver_030924\bin\Debug\net8.0\c_oppgaver_030924.dll
+C:\Users\larmi\Desktop\backend_prosjekter\c_oppgaver_030924\bin\Debug\net8.0\c_oppgaver_030924.pdb
+C:\Users\larmi\Desktop\backend_prosjekter\c_oppgaver_030924\obj\Debug\net8.0\c_oppgaver_030924.dll
+C:\Users\larmi\Desktop\backend_prosjekter\c_oppgaver_030924\obj\Debug\net8.0\refint\c_oppgaver_030924.dll
+C:\Users\larmi\Desktop\backend_prosjekter\c_oppgaver_030924\obj\Debug\net8.0\c_oppgaver_030924.pdb
+C:\Users\larmi\Desktop\backend_prosjekter\c_oppgaver_030924\obj\Debug\net8.0\c_oppgaver_030924.genruntimeconfig.cache
+C:\Users\larmi\Desktop\backend_prosjekter\c_oppgaver_030924\obj\Debug\net8.0\ref\c_oppgaver_030924.dll
