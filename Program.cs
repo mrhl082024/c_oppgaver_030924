@@ -1,4 +1,5 @@
 ﻿using System.Collections;
+using System.Security.Cryptography.X509Certificates;
 
 namespace c_oppgaver_030924;
 
@@ -31,7 +32,7 @@ class Program
 
 
         string[] myStrings = ["forstår", "fortsatt", "jævelig lite"];
-        foreach (string item in myStrings)
+        foreach (var item in myStrings)
         {
             Console.WriteLine(item);
         }
@@ -40,7 +41,7 @@ class Program
         nyTekst.Add("BMW");
         nyTekst.Add("Volvo");
         nyTekst.Add("Audi");
-        foreach (string nyItem in nyTekst)
+        foreach (var nyItem in nyTekst)
         {
             Console.WriteLine(nyItem);
         }
@@ -68,8 +69,9 @@ class Program
         int a = 10;
         int b = 20;
         Console.WriteLine(a + b);
-        string fname = Console.ReadLine();
-        myMethod(fname);
+
+        string? fname = Console.ReadLine();
+        Console.WriteLine("\n" + fname + " Ha en fin dag!");
 
         /*
         Lag en Dictionary med integer-nøkkel og string-verdi slik
@@ -78,12 +80,11 @@ class Program
         Lag en metode av typen integer som legger sammen to tall, int a og int b
         Lag en metode av typen string som skrive ut en liten hilsen til brukeren ved å bruke en parametervariabel.
         */
+
+
     }
 
-    static void myMethod(string fname)
-    {
-        Console.WriteLine(fname + "\n" + "Sees igjen");
-    }
+
 
 
 
